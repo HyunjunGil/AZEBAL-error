@@ -1,4 +1,4 @@
-# 6. Deployment Architecture (배포 아키텍처)
+# 5. Deployment Architecture (배포 아키텍처)
 
 * **Strategy:** **Azure Static Web Apps**를 사용한 통합 CI/CD 전략을 사용합니다.
 * **Process:**
